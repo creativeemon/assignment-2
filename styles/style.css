@@ -1,0 +1,110 @@
+/* <!-- *******************************************************************
+%%%%%%%%%%%%%%%%%%%%%%%%%%%- BODY BG STYLE-%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+)))))))))))))))))))))))))))))))((((((((((((((((((((((())))))))))))))))))))))) --> */
+*{
+    margin: 0;
+    padding: 0;
+}
+.BG-STYLE{
+    width: 1920px;
+    height: 1322px;
+    background: rgba(255, 144, 14, 0.1);
+    
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+
+}
+.G3-Architects{
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+}
+.item, ul, li{
+display: flex;
+margin-right: 20px;
+font-weight: 500;
+font-size: 18px;
+color: #424242;
+}
+/* ------------------------------------------
+-------------Brand New style---------------- */
+.header{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Brand-New{
+    font-weight: 700;
+    font-size: 64px;
+}
+.p-1{
+    font-weight: 400;
+     font-size: 16px;
+     color: #727272;
+     width: 50%;
+     margin: auto;
+     padding: 35px;
+    
+}
+.Explore-More{
+    width: 180px;
+height: 64px;
+background: #FF900E;
+border-radius: 8px;
+}
+.frist{
+    margin-top: 50px;
+    width: 1440px;
+height: 700px;
+background: url(group-three-modern-architects.jpg);
+border-radius: 8px;
+    
+}
+/* &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Quick list of Our Features
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& */
+.section-2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+  
+
+    }
+
+.img-styles{
+
+margin-top: 150px;
+}
+.img-style{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 342px;
+    height: 342px;
+    grid-row-gap: 5px;
+    grid-column-gap: 5px;
+  
+   
+}
+
+
+/* left style -----------------------------
+--------------------------------*/
+/* Quick-list-styles */
+
+
+.Quick-list-styles{
+    margin-top: 400px;
+    
+}
+.p-2{
+    width: 50%;
+    margin: 10px;
+}
