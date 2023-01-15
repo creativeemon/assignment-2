@@ -210,3 +210,62 @@ font-size: 65px;
         height: 45.22px;
        
     }
+
+    /* Our-Sponspor */
+
+footer{
+    margin-top: 50px;
+}
+
+
+    .Our-Sponspor{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .Our-Spone{
+        color: #131313;
+        font-weight: 700;
+        font-size: 45px;
+    }
+
+    .p-4{
+        /* margin-top: 20px; */
+        padding: 20px;
+        color: #727272;
+        font-weight: 400;
+        font-size: 16px;
+        width: 50%;
+        margin: auto;
+    }
+
+    /* media style */
+
+    .media{
+        display: flex;
+        justify-content: center;
+        gap: 150px;
+        margin-top: 20px;
+    }
+
+    /* All rights reserved copyright@2023 startup landing page design ---style*/
+ 
+    .last{
+        /* padding: 50px; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       padding: 50px;
+    }
+
+    .All-rights{
+        background: #FFF4E7;
+        border-radius: 8px;
+        width: 1440px;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
