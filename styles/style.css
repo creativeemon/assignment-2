@@ -4,6 +4,7 @@
 *{
     margin: 0;
     padding: 0;
+    border-style: none;
 }
 .BG-STYLE{
     width: 1920px;
@@ -118,8 +119,11 @@ margin-top: 150px;
 
  .sacend-part-style{
     display: flex;
+    padding: 200px;
  }
-
+ .Features{
+   
+ }
  .sacend-part-style{
     margin-top: 320px;
  }
@@ -129,7 +133,80 @@ height: 171px;
 background: #FFFFFF;
 box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
 border-radius: 8px;
+margin-top: 10px;
+padding: 20px;
+ }
+ .Features-you{
+    font-weight: 700;
+    font-size: 45px;
  }
  .p-3{
-    /* width: 50%; */
+    width: 50%;
+
  }
+ .year-button{
+    background: #FF900E;
+    border-radius: 8px;
+    width: 342px;
+    height: 200px;
+    color: #FFFFFF;
+ }
+ .Year{
+    font-weight: 700;
+font-size: 65px;
+ }
+ .Experience{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 25px;
+ }
+ 
+
+
+ /* <!-- Some Facts style+++++++++++++++++++++++++++++
+======================================== --> */
+
+ .Some-Facts{
+    padding: 130px;
+ }
+
+
+.Some-Fac{
+    color: #131313;
+    font-weight: 700;
+    font-size: 45px;
+}
+.some{
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+    width: 50%;
+}
+
+
+
+/* <!-- -------------------------------
+    -----------------------
+    secende style------------------------ --> */
+
+    .icon-style{
+        display: flex;
+        justify-content: center;
+        gap: 125px;
+    }
+     .icon{
+        width: 241.83px;
+        height: 241.83px;
+        border:2px solid red;
+        display: grid;
+        grid-template-columns: repeat(1 1fr);
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        justify-items: center;
+     }
+    .imags{
+        width: 45.22px;
+        height: 45.22px;
+       
+    }
